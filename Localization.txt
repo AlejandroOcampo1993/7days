@@ -1,0 +1,42 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,spanish
+
+HydroponicsLarge,items,item,,,,Hydroponics Shelf,,Estantería Hidropónica
+HydroponicsLargeDesc,items,item,,,,"Grow your plants inside and within reach",,"Cultiva tus plantas en el interior y al alcance"
+HydroponicsSmall,items,item,,,,Hydroponics Cylinder,,Cilindro Hidropónico
+HydroponicsSmallDesc,items,item,,,,"Grow your plants inside and within reach",,"Cultiva tus plantas en el interior y al alcance"
+PlantFertilizer,items,item,,,,Plant Fertilizer,,Fertilizante para Plantas
+PlantFertilizerDesc,items,item,,,,"It makes plants grow...smells kinda gross though.",,"Hace que las plantas crezcan... aunque huele bastante feo."
+
+toolWaterReserves,items,item,,,,Water Reserves,,Reservas de Agua
+toolWaterReservesDesc,items,item,,,,"All that water your usin' to grow those plants... where do you think it's stored?",,"Toda esa agua que usas para cultivar... ¿dónde crees que se almacena?"
+toolWaterLines,items,item,,,,Water Lines,,Tuberías de Agua
+toolWaterLinesDesc,items,item,,,,"Gotta get that water from the reserves to your seeds somehow.",,"Hay que llevar el agua desde las reservas hasta tus semillas de alguna manera."
+toolGrowLight,items,item,,,,Grow Light,,Luz de Cultivo
+toolGrowLightDesc,items,item,,,,"Sun... artificial. Light is light, man.??",,"Sol... artificial. Luz es luz, amigo.??"
+
+BlueberryBundle,items,item,,,,Blueberry Bundle,,Paquete de Arándanos
+BlueberryBundleDesc,items,item,,,,"A bundle of Blueberries.",,"Un paquete de arándanos."
+AloeBundle,items,item,,,,Aloe Bundle,,Paquete de Aloe
+AloeBundleDesc,items,item,,,,"A bundle of Aloe.",,"Un paquete de aloe."
+CoffeeBundle,items,item,,,,Coffee Bundle,,Paquete de Café
+CoffeeBundleDesc,items,item,,,,"A bundle of Coffee.",,"Un paquete de café."
+ChrysantBundle,items,item,,,,Chrysanthemum Bundle,,Paquete de Crisantemos
+ChrysantBundleDesc,items,item,,,,"A bundle of Chrysanthemum.",,"Un paquete de crisantemos."
+CornBundle,items,item,,,,Corn Bundle,,Paquete de Maíz
+CornBundleDesc,items,item,,,,"A bundle of Corn.",,"Un paquete de maíz."
+CottonBundle,items,item,,,,Cotton Bundle,,Paquete de Algodón
+CottonBundleDesc,items,item,,,,"A Batch of Cotton.",,"Un lote de algodón."
+GoldenrodBundle,items,item,,,,Goldenrod Bundle,,Paquete de Vara de Oro
+GoldenrodBundleDesc,items,item,,,,"A bundle of Goldenrod.",,"Un paquete de vara de oro."
+HopsBundle,items,item,,,,Hops Bundle,,Paquete de Lúpulo
+HopsBundleDesc,items,item,,,,"A bundle of Hops.",,"Un paquete de lúpulo."
+MushroomBundle,items,item,,,,Mushroom Bundle,,Cubeta de Hongos
+MushroomBundleDesc,items,item,,,,"A bucket of Mushrooms.",,"Una cubeta de hongos."
+PotatoBundle,items,item,,,,Potato Bundle,,Saco de Papas
+PotatoBundleDesc,items,item,,,,"A sack of Potatoes.",,"Un saco de papas."
+PumpkinBundle,items,item,,,,Pumpkin Bundle,,Lote de Calabazas
+PumpkinBundleDesc,items,item,,,,"A batch of Pumpkins.",,"Un lote de calabazas."
+YuccaBundle,items,item,,,,Yucca Bundle,,Paquete de Yuca
+YuccaBundleDesc,items,item,,,,"A bundle of Yucca.",,"Un paquete de yuca."
+SuperCornBundle,items,item,,,,Super Corn Bundle,,Paquete de Súper Maíz
+SuperCornBundleDesc,items,item,,,,"A bundle of Super Corn.",,"Un paquete de súper maíz."
